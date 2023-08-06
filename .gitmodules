@@ -1,3 +1,6 @@
 [submodule "nodejs-demo"]
 	path = nodejs-demo
 	url = git@github.com:harunagca/nodejs-demo.git
+[submodule "python-demo"]
+	path = python-demo
+	url = git@github.com:harunagca/python-demo.git
