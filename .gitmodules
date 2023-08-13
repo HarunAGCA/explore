@@ -1,6 +1,6 @@
-[submodule "nodejs-demo"]
-	path = nodejs-demo
-	url = git@github.com:harunagca/nodejs-demo.git
-[submodule "python-demo"]
-	path = python-demo
-	url = git@github.com:harunagca/python-demo.git
+[submodule "introduction-to-python"]
+	path = introduction-to-python
+	url = git@github.com:harunagca/introduction-to-python
+[submodule "introduction-to-nodejs"]
+	path = introduction-to-nodejs
+	url = git@github.com:harunagca/introduction-to-nodejs
