@@ -4,3 +4,6 @@
 [submodule "introduction-to-nodejs"]
 	path = introduction-to-nodejs
 	url = git@github.com:harunagca/introduction-to-nodejs
+[submodule "win-api-demo"]
+	path = win-api-demo
+	url = git@github.com:HarunAGCA/win-api-demo.git
