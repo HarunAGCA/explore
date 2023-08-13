@@ -1,2 +1,2 @@
 # explore
-Includes my practices on new things to me like demo projects
+Includes my practices on new things like introduction to a programming language
